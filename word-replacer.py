@@ -1,5 +1,5 @@
 def replace_word():
-    str = "Hi guys, I am Sara. We out here boyz getting absolutely crazy."
+    str = "Hi guys, I am Sara. The best artist is definitely Taylor Swift. My favorite album is Midnights!"
     print(str)
     word_to_replace = input("Enter the word to replace: ")
     word_replacement = input("Enter the word replacement: ")
